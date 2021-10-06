@@ -1,0 +1,160 @@
+D:\Desktop\Testing\CalculatorWeb\bin\CalculatorWeb.dll.config
+D:\Desktop\Testing\CalculatorWeb\bin\CalculatorWeb.dll
+D:\Desktop\Testing\CalculatorWeb\bin\CalculatorWeb.pdb
+D:\Desktop\Testing\CalculatorWeb\bin\WebForms_Basic.xml
+D:\Desktop\Testing\CalculatorWeb\bin\roslyn\csc.exe
+D:\Desktop\Testing\CalculatorWeb\bin\roslyn\csc.exe.config
+D:\Desktop\Testing\CalculatorWeb\bin\roslyn\csc.rsp
+D:\Desktop\Testing\CalculatorWeb\bin\roslyn\csi.exe
+D:\Desktop\Testing\CalculatorWeb\bin\roslyn\csi.exe.config
+D:\Desktop\Testing\CalculatorWeb\bin\roslyn\csi.rsp
+D:\Desktop\Testing\CalculatorWeb\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Desktop\Testing\CalculatorWeb\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Desktop\Testing\CalculatorWeb\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Desktop\Testing\CalculatorWeb\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Desktop\Testing\CalculatorWeb\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Desktop\Testing\CalculatorWeb\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Desktop\Testing\CalculatorWeb\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Desktop\Testing\CalculatorWeb\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Desktop\Testing\CalculatorWeb\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Desktop\Testing\CalculatorWeb\bin\roslyn\Microsoft.Managed.Core.targets
+D:\Desktop\Testing\CalculatorWeb\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Desktop\Testing\CalculatorWeb\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\Desktop\Testing\CalculatorWeb\bin\roslyn\System.AppContext.dll
+D:\Desktop\Testing\CalculatorWeb\bin\roslyn\System.Collections.Immutable.dll
+D:\Desktop\Testing\CalculatorWeb\bin\roslyn\System.Console.dll
+D:\Desktop\Testing\CalculatorWeb\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\Desktop\Testing\CalculatorWeb\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\Desktop\Testing\CalculatorWeb\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\Desktop\Testing\CalculatorWeb\bin\roslyn\System.Globalization.Calendars.dll
+D:\Desktop\Testing\CalculatorWeb\bin\roslyn\System.IO.Compression.dll
+D:\Desktop\Testing\CalculatorWeb\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\Desktop\Testing\CalculatorWeb\bin\roslyn\System.IO.FileSystem.dll
+D:\Desktop\Testing\CalculatorWeb\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\Desktop\Testing\CalculatorWeb\bin\roslyn\System.Net.Http.dll
+D:\Desktop\Testing\CalculatorWeb\bin\roslyn\System.Net.Sockets.dll
+D:\Desktop\Testing\CalculatorWeb\bin\roslyn\System.Reflection.Metadata.dll
+D:\Desktop\Testing\CalculatorWeb\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\Desktop\Testing\CalculatorWeb\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\Desktop\Testing\CalculatorWeb\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\Desktop\Testing\CalculatorWeb\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\Desktop\Testing\CalculatorWeb\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\Desktop\Testing\CalculatorWeb\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\Desktop\Testing\CalculatorWeb\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\Desktop\Testing\CalculatorWeb\bin\roslyn\System.ValueTuple.dll
+D:\Desktop\Testing\CalculatorWeb\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\Desktop\Testing\CalculatorWeb\bin\roslyn\System.Xml.XmlDocument.dll
+D:\Desktop\Testing\CalculatorWeb\bin\roslyn\System.Xml.XPath.dll
+D:\Desktop\Testing\CalculatorWeb\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\Desktop\Testing\CalculatorWeb\bin\roslyn\vbc.exe
+D:\Desktop\Testing\CalculatorWeb\bin\roslyn\vbc.exe.config
+D:\Desktop\Testing\CalculatorWeb\bin\roslyn\vbc.rsp
+D:\Desktop\Testing\CalculatorWeb\bin\roslyn\VBCSCompiler.exe
+D:\Desktop\Testing\CalculatorWeb\bin\roslyn\VBCSCompiler.exe.config
+D:\Desktop\Testing\CalculatorWeb\bin\Antlr3.Runtime.dll
+D:\Desktop\Testing\CalculatorWeb\bin\AspNet.ScriptManager.bootstrap.dll
+D:\Desktop\Testing\CalculatorWeb\bin\AspNet.ScriptManager.jQuery.dll
+D:\Desktop\Testing\CalculatorWeb\bin\Calculator.dll
+D:\Desktop\Testing\CalculatorWeb\bin\Microsoft.AspNet.FriendlyUrls.dll
+D:\Desktop\Testing\CalculatorWeb\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+D:\Desktop\Testing\CalculatorWeb\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Desktop\Testing\CalculatorWeb\bin\Microsoft.ScriptManager.MSAjax.dll
+D:\Desktop\Testing\CalculatorWeb\bin\Microsoft.ScriptManager.WebForms.dll
+D:\Desktop\Testing\CalculatorWeb\bin\Microsoft.Web.Infrastructure.dll
+D:\Desktop\Testing\CalculatorWeb\bin\Newtonsoft.Json.dll
+D:\Desktop\Testing\CalculatorWeb\bin\System.Web.Optimization.dll
+D:\Desktop\Testing\CalculatorWeb\bin\WebGrease.dll
+D:\Desktop\Testing\CalculatorWeb\bin\Calculator.pdb
+D:\Desktop\Testing\CalculatorWeb\bin\System.Web.Optimization.xml
+D:\Desktop\Testing\CalculatorWeb\bin\Newtonsoft.Json.xml
+D:\Desktop\Testing\CalculatorWeb\bin\Antlr3.Runtime.pdb
+D:\Desktop\Testing\CalculatorWeb\bin\Microsoft.AspNet.FriendlyUrls.xml
+D:\Desktop\Testing\CalculatorWeb\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Desktop\Testing\CalculatorWeb\obj\Debug\CalculatorWeb.vbproj.AssemblyReference.cache
+D:\Desktop\Testing\CalculatorWeb\obj\Debug\CalculatorWeb.Resources.resources
+D:\Desktop\Testing\CalculatorWeb\obj\Debug\CalculatorWeb.vbproj.GenerateResource.cache
+D:\Desktop\Testing\CalculatorWeb\obj\Debug\CalculatorWeb.vbproj.CoreCompileInputs.cache
+D:\Desktop\Testing\CalculatorWeb\obj\Debug\CalculatorWeb.vbproj.CopyComplete
+D:\Desktop\Testing\CalculatorWeb\obj\Debug\CalculatorWeb.dll
+D:\Desktop\Testing\CalculatorWeb\obj\Debug\WebForms_Basic.xml
+D:\Desktop\Testing\CalculatorWeb\obj\Debug\CalculatorWeb.pdb
+E:\Programming Samples\Calculator\Calculator\CalculatorWeb\bin\CalculatorWeb.dll.config
+E:\Programming Samples\Calculator\Calculator\CalculatorWeb\bin\CalculatorWeb.dll
+E:\Programming Samples\Calculator\Calculator\CalculatorWeb\bin\CalculatorWeb.pdb
+E:\Programming Samples\Calculator\Calculator\CalculatorWeb\bin\WebForms_Basic.xml
+E:\Programming Samples\Calculator\Calculator\CalculatorWeb\bin\roslyn\csc.exe
+E:\Programming Samples\Calculator\Calculator\CalculatorWeb\bin\roslyn\csc.exe.config
+E:\Programming Samples\Calculator\Calculator\CalculatorWeb\bin\roslyn\csc.rsp
+E:\Programming Samples\Calculator\Calculator\CalculatorWeb\bin\roslyn\csi.exe
+E:\Programming Samples\Calculator\Calculator\CalculatorWeb\bin\roslyn\csi.exe.config
+E:\Programming Samples\Calculator\Calculator\CalculatorWeb\bin\roslyn\csi.rsp
+E:\Programming Samples\Calculator\Calculator\CalculatorWeb\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\Programming Samples\Calculator\Calculator\CalculatorWeb\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\Programming Samples\Calculator\Calculator\CalculatorWeb\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\Programming Samples\Calculator\Calculator\CalculatorWeb\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\Programming Samples\Calculator\Calculator\CalculatorWeb\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\Programming Samples\Calculator\Calculator\CalculatorWeb\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\Programming Samples\Calculator\Calculator\CalculatorWeb\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\Programming Samples\Calculator\Calculator\CalculatorWeb\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\Programming Samples\Calculator\Calculator\CalculatorWeb\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\Programming Samples\Calculator\Calculator\CalculatorWeb\bin\roslyn\Microsoft.Managed.Core.targets
+E:\Programming Samples\Calculator\Calculator\CalculatorWeb\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\Programming Samples\Calculator\Calculator\CalculatorWeb\bin\roslyn\Microsoft.Win32.Primitives.dll
+E:\Programming Samples\Calculator\Calculator\CalculatorWeb\bin\roslyn\System.AppContext.dll
+E:\Programming Samples\Calculator\Calculator\CalculatorWeb\bin\roslyn\System.Collections.Immutable.dll
+E:\Programming Samples\Calculator\Calculator\CalculatorWeb\bin\roslyn\System.Console.dll
+E:\Programming Samples\Calculator\Calculator\CalculatorWeb\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+E:\Programming Samples\Calculator\Calculator\CalculatorWeb\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+E:\Programming Samples\Calculator\Calculator\CalculatorWeb\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\Programming Samples\Calculator\Calculator\CalculatorWeb\bin\roslyn\System.Globalization.Calendars.dll
+E:\Programming Samples\Calculator\Calculator\CalculatorWeb\bin\roslyn\System.IO.Compression.dll
+E:\Programming Samples\Calculator\Calculator\CalculatorWeb\bin\roslyn\System.IO.Compression.ZipFile.dll
+E:\Programming Samples\Calculator\Calculator\CalculatorWeb\bin\roslyn\System.IO.FileSystem.dll
+E:\Programming Samples\Calculator\Calculator\CalculatorWeb\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\Programming Samples\Calculator\Calculator\CalculatorWeb\bin\roslyn\System.Net.Http.dll
+E:\Programming Samples\Calculator\Calculator\CalculatorWeb\bin\roslyn\System.Net.Sockets.dll
+E:\Programming Samples\Calculator\Calculator\CalculatorWeb\bin\roslyn\System.Reflection.Metadata.dll
+E:\Programming Samples\Calculator\Calculator\CalculatorWeb\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+E:\Programming Samples\Calculator\Calculator\CalculatorWeb\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+E:\Programming Samples\Calculator\Calculator\CalculatorWeb\bin\roslyn\System.Security.Cryptography.Encoding.dll
+E:\Programming Samples\Calculator\Calculator\CalculatorWeb\bin\roslyn\System.Security.Cryptography.Primitives.dll
+E:\Programming Samples\Calculator\Calculator\CalculatorWeb\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+E:\Programming Samples\Calculator\Calculator\CalculatorWeb\bin\roslyn\System.Text.Encoding.CodePages.dll
+E:\Programming Samples\Calculator\Calculator\CalculatorWeb\bin\roslyn\System.Threading.Tasks.Extensions.dll
+E:\Programming Samples\Calculator\Calculator\CalculatorWeb\bin\roslyn\System.ValueTuple.dll
+E:\Programming Samples\Calculator\Calculator\CalculatorWeb\bin\roslyn\System.Xml.ReaderWriter.dll
+E:\Programming Samples\Calculator\Calculator\CalculatorWeb\bin\roslyn\System.Xml.XmlDocument.dll
+E:\Programming Samples\Calculator\Calculator\CalculatorWeb\bin\roslyn\System.Xml.XPath.dll
+E:\Programming Samples\Calculator\Calculator\CalculatorWeb\bin\roslyn\System.Xml.XPath.XDocument.dll
+E:\Programming Samples\Calculator\Calculator\CalculatorWeb\bin\roslyn\vbc.exe
+E:\Programming Samples\Calculator\Calculator\CalculatorWeb\bin\roslyn\vbc.exe.config
+E:\Programming Samples\Calculator\Calculator\CalculatorWeb\bin\roslyn\vbc.rsp
+E:\Programming Samples\Calculator\Calculator\CalculatorWeb\bin\roslyn\VBCSCompiler.exe
+E:\Programming Samples\Calculator\Calculator\CalculatorWeb\bin\roslyn\VBCSCompiler.exe.config
+E:\Programming Samples\Calculator\Calculator\CalculatorWeb\bin\Antlr3.Runtime.dll
+E:\Programming Samples\Calculator\Calculator\CalculatorWeb\bin\AspNet.ScriptManager.bootstrap.dll
+E:\Programming Samples\Calculator\Calculator\CalculatorWeb\bin\AspNet.ScriptManager.jQuery.dll
+E:\Programming Samples\Calculator\Calculator\CalculatorWeb\bin\Calculator.dll
+E:\Programming Samples\Calculator\Calculator\CalculatorWeb\bin\Microsoft.AspNet.FriendlyUrls.dll
+E:\Programming Samples\Calculator\Calculator\CalculatorWeb\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+E:\Programming Samples\Calculator\Calculator\CalculatorWeb\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\Programming Samples\Calculator\Calculator\CalculatorWeb\bin\Microsoft.ScriptManager.MSAjax.dll
+E:\Programming Samples\Calculator\Calculator\CalculatorWeb\bin\Microsoft.ScriptManager.WebForms.dll
+E:\Programming Samples\Calculator\Calculator\CalculatorWeb\bin\Microsoft.Web.Infrastructure.dll
+E:\Programming Samples\Calculator\Calculator\CalculatorWeb\bin\Newtonsoft.Json.dll
+E:\Programming Samples\Calculator\Calculator\CalculatorWeb\bin\System.Web.Optimization.dll
+E:\Programming Samples\Calculator\Calculator\CalculatorWeb\bin\WebGrease.dll
+E:\Programming Samples\Calculator\Calculator\CalculatorWeb\bin\Calculator.pdb
+E:\Programming Samples\Calculator\Calculator\CalculatorWeb\bin\System.Web.Optimization.xml
+E:\Programming Samples\Calculator\Calculator\CalculatorWeb\bin\Newtonsoft.Json.xml
+E:\Programming Samples\Calculator\Calculator\CalculatorWeb\bin\Antlr3.Runtime.pdb
+E:\Programming Samples\Calculator\Calculator\CalculatorWeb\bin\Microsoft.AspNet.FriendlyUrls.xml
+E:\Programming Samples\Calculator\Calculator\CalculatorWeb\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\Programming Samples\Calculator\Calculator\CalculatorWeb\obj\Debug\CalculatorWeb.vbproj.AssemblyReference.cache
+E:\Programming Samples\Calculator\Calculator\CalculatorWeb\obj\Debug\CalculatorWeb.Resources.resources
+E:\Programming Samples\Calculator\Calculator\CalculatorWeb\obj\Debug\CalculatorWeb.vbproj.GenerateResource.cache
+E:\Programming Samples\Calculator\Calculator\CalculatorWeb\obj\Debug\CalculatorWeb.vbproj.CoreCompileInputs.cache
+E:\Programming Samples\Calculator\Calculator\CalculatorWeb\obj\Debug\CalculatorWeb.vbproj.CopyComplete
+E:\Programming Samples\Calculator\Calculator\CalculatorWeb\obj\Debug\CalculatorWeb.dll
+E:\Programming Samples\Calculator\Calculator\CalculatorWeb\obj\Debug\WebForms_Basic.xml
+E:\Programming Samples\Calculator\Calculator\CalculatorWeb\obj\Debug\CalculatorWeb.pdb

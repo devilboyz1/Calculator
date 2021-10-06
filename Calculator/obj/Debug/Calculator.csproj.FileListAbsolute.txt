@@ -1,0 +1,12 @@
+D:\Desktop\Testing\Calculator\bin\Debug\Calculator.dll
+D:\Desktop\Testing\Calculator\bin\Debug\Calculator.pdb
+D:\Desktop\Testing\Calculator\obj\Debug\Calculator.csproj.AssemblyReference.cache
+D:\Desktop\Testing\Calculator\obj\Debug\Calculator.csproj.CoreCompileInputs.cache
+D:\Desktop\Testing\Calculator\obj\Debug\Calculator.dll
+D:\Desktop\Testing\Calculator\obj\Debug\Calculator.pdb
+E:\Programming Samples\Calculator\Calculator\Calculator\bin\Debug\Calculator.dll
+E:\Programming Samples\Calculator\Calculator\Calculator\bin\Debug\Calculator.pdb
+E:\Programming Samples\Calculator\Calculator\Calculator\obj\Debug\Calculator.csproj.AssemblyReference.cache
+E:\Programming Samples\Calculator\Calculator\Calculator\obj\Debug\Calculator.csproj.CoreCompileInputs.cache
+E:\Programming Samples\Calculator\Calculator\Calculator\obj\Debug\Calculator.dll
+E:\Programming Samples\Calculator\Calculator\Calculator\obj\Debug\Calculator.pdb
